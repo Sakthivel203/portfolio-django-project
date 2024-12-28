@@ -55,4 +55,4 @@ $ python manage.py createsuperuser
 $ python manage.py runserver
 ```
 
-<b>The project will be available at :   </b>  **http://127.0.0.1:8000/**
+<b>The project will be available at :   </b>  **http://127.0.0.1:8000**
