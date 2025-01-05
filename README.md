@@ -2,8 +2,6 @@
 
 A Simple Portfolio app build with Django.
 
-# Live Demo : 
-<h2>link</h2>
 
 # Running the Project Locally
 
@@ -54,5 +52,3 @@ $ python manage.py createsuperuser
 ```bash
 $ python manage.py runserver
 ```
-
-<b>The project will be available at :   </b>  **http://127.0.0.1:8000**
